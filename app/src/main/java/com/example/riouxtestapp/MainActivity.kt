@@ -9,3 +9,13 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+
+
+//Oops, I just saw this is in Kotlin.
+/*
+* Oh well, I am just testing some git issues anyway so the
+* language doesn't matter
+* */
+
+
+
